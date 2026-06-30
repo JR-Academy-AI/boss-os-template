@@ -1,0 +1,23 @@
+# === 防止误传真实数据 ===
+# 这是模板仓库，只该含占位符。真实老板实例不要提交。
+#
+# 盖章后的真实实例（约定：放在仓库外，或命名 *-os/ / instances/）
+*-os/
+instances/
+私有/
+real-data/
+
+# 处理过的原始件（会含真实邮件/截图/财务）
+**/Inbox/_done/
+**/_done/
+
+# 各 live 文件滚动出的归档（会含真实历史）—— 默认不传，按需放开
+**/archive/
+**/Decisions/log/
+
+# === 系统/编辑器垃圾 ===
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

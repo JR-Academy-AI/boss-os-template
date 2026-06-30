@@ -78,3 +78,7 @@ Raw 进来 → Inbox/ 或 各公司 Raw 区  (原样存，不动)
 ```
 
 进入任何 `{boss}-os/` 时，AI 的阅读顺序：`PROFILE.md` → `Rules/` → 任务相关的公司目录。
+
+---
+
+License: [MIT](LICENSE) © 2026 JR Academy
